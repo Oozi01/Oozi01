@@ -1,0 +1,8 @@
+- Hi! My name is Oskar.
+- I'm from Poland.
+- I'm writing code in python language
+- I'm currently learning python packages such as django or flask but also non-website based packages
+- I'm currently looking for a job on a trainee or junior position
+- Contact:
+- email - oskar.ciesla01@gmail.com
+- linkedin profile - https://www.linkedin.com/in/oskar-cie%C5%9Bla-33760a239/
