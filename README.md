@@ -1,8 +1,3 @@
-IMPORTANT!!!
-my CV website:
-  https://cv-website-oc.herokuapp.com/
-
-
 - Hi! My name is Oskar
 - Self taught (hope to become) python developer
 - I'm from Poland
